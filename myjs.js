@@ -1,1 +1,1 @@
-alert('Hello!');
+alert('私の好きなもの!');
